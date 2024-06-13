@@ -1,0 +1,29 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.nav-item-margin{
+    margin-left: auto;
+}
+
+.myName{
+    color: #0fa0d9;
+}
+.portfolio-container{
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.contact-details{
+    margin-left: auto;
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-shadow: gray 5px 5px 3px;
+    margin: 50px 0;
+    box-sizing: border-box;
+}
